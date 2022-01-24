@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>登入</title>
+    <title>登入(建置會員系統的頁面結果及樣式)</title>
     <?php include "./include/head.php";?>
 </head>
 <body>
